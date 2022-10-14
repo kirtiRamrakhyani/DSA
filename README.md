@@ -1,2 +1,3 @@
 # DSA
-Solution and list of common problems
+
+For cracking coding interviews and improving Problem solving skills.
